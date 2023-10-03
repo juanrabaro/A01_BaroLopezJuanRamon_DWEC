@@ -1,0 +1,1 @@
+alert("Hola mundo! \n Que fácil es usar 'comillas simples'\n y \"comillas dobles\"")
